@@ -1,6 +1,6 @@
 <h1 > Graphing Quadratic Functions </h1>
 <p >
- a program I wrote to help me with my homework, use it wisely.
+ a program I wrote to help me with my homework,
 it uses the pbPlot.cpp library, so https://github.com/InductiveComputerScience/pbPlots give them a star!
 </p>
 
