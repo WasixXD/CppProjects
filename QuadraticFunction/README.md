@@ -12,7 +12,7 @@ it uses the pbPlot.cpp library, so https://github.com/InductiveComputerScience/p
 
 ## How to compile
 open your terminal and write:
-```
+```console
 g++ main.cpp pbPlot.cpp supportLib.cpp -o main
 ```
 and after:
